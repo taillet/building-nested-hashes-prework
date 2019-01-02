@@ -3,7 +3,7 @@ def first_challenge
 
 end
 
-def second_challenge[]
+def second_challenge[hashhere]
   epic_tragedy = {
     montague: {
       patriarch: {},
